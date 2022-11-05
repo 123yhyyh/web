@@ -6,12 +6,12 @@
 
     <servlet>
         <servlet-name>MainFormServlet</servlet-name>
-        <servlet-class>mydessertstore.web.servlet.MainFormServlet</servlet-class>
+        <servlet-class>main.java.mydessertstore.web.servlet.MainFormServlet</servlet-class>
     </servlet>
 
     <servlet>
         <servlet-name>CategoryFormServlet</servlet-name>
-        <servlet-class>mydessertstore.web.servlet.CategoryFormServlet</servlet-class>
+        <servlet-class>main.java.mydessertstore.web.servlet.CategoryFormServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>

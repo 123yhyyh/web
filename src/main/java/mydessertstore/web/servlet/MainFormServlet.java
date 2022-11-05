@@ -1,4 +1,4 @@
-package mydessertstore.web.servlet;
+package main.java.mydessertstore.web.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
