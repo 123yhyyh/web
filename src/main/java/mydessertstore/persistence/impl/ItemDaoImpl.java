@@ -1,9 +1,9 @@
-package main.java.mydessertstore.persistence.impl;
+package mydessertstore.persistence.impl;
 
-import main.java.mydessertstore.domain.Item;
-import main.java.mydessertstore.domain.Product;
-import main.java.mydessertstore.persistence.DBUtil;
-import main.java.mydessertstore.persistence.ItemDao;
+import mydessertstore.domain.Item;
+import mydessertstore.domain.Product;
+import mydessertstore.persistence.DBUtil;
+import mydessertstore.persistence.ItemDao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

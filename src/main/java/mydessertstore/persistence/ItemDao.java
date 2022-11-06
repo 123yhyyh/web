@@ -1,5 +1,5 @@
-package main.java.mydessertstore.persistence;
-import main.java.mydessertstore.domain.Item;
+package mydessertstore.persistence;
+import mydessertstore.domain.Item;
 
 import java.util.List;
 import java.util.Map;

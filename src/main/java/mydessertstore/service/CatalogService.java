@@ -1,14 +1,14 @@
-package main.java.mydessertstore.service;
+package mydessertstore.service;
 
-import main.java.mydessertstore.domain.Category;
-import main.java.mydessertstore.domain.Item;
-import main.java.mydessertstore.domain.Product;
-import main.java.mydessertstore.persistence.CategoryDao;
-import main.java.mydessertstore.persistence.ItemDao;
-import main.java.mydessertstore.persistence.ProductDao;
-import main.java.mydessertstore.persistence.impl.CategoryDaoImpl;
-import main.java.mydessertstore.persistence.impl.ItemDaoImpl;
-import main.java.mydessertstore.persistence.impl.ProductDaoImpl;
+import mydessertstore.domain.Category;
+import mydessertstore.domain.Item;
+import mydessertstore.domain.Product;
+import mydessertstore.persistence.CategoryDao;
+import mydessertstore.persistence.ItemDao;
+import mydessertstore.persistence.ProductDao;
+import mydessertstore.persistence.impl.CategoryDaoImpl;
+import mydessertstore.persistence.impl.ItemDaoImpl;
+import mydessertstore.persistence.impl.ProductDaoImpl;
 
 import java.util.List;
 

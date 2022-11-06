@@ -1,8 +1,8 @@
-package main.java.mydessertstore.persistence.impl;
+package mydessertstore.persistence.impl;
 
-import main.java.mydessertstore.domain.Category;
-import main.java.mydessertstore.persistence.CategoryDao;
-import main.java.mydessertstore.persistence.DBUtil;
+import mydessertstore.domain.Category;
+import mydessertstore.persistence.CategoryDao;
+import mydessertstore.persistence.DBUtil;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,5 +1,5 @@
-package main.java.mydessertstore.persistence;
-import main.java.mydessertstore.domain.Category;
+package mydessertstore.persistence;
+import mydessertstore.domain.Category;
 
 import java.util.List;
 

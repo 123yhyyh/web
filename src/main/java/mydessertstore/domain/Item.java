@@ -1,4 +1,4 @@
-package main.java.mydessertstore.domain;
+package mydessertstore.domain;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package main.java.mydessertstore.persistence;
+package mydessertstore.persistence;
 
 import java.sql.*;
 

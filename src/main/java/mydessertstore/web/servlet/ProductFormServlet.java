@@ -1,8 +1,8 @@
-package main.java.mydessertstore.web.servlet;
+package mydessertstore.web.servlet;
 
-import main.java.mydessertstore.domain.Item;
-import main.java.mydessertstore.domain.Product;
-import main.java.mydessertstore.service.CatalogService;
+import mydessertstore.domain.Item;
+import mydessertstore.domain.Product;
+import mydessertstore.service.CatalogService;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

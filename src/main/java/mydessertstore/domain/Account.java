@@ -1,4 +1,4 @@
-package main.java.mydessertstore.domain;
+package mydessertstore.domain;
 
 public class Account {
 }
